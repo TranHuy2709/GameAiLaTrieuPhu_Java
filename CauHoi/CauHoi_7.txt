@@ -1,0 +1,4 @@
+Sau chien tranh the gioi thu 2, phong trao giai phong dan toc noi len manh nhat o dau ?|Chau A|Chau Au|Chau My|Chau Phi|Chau Phi
+Tim nguoi gom bao nhieu ngan ?|2|3|4|5|4
+Chua Dong lon nhat Viet Nam o dau ?|Nui Thai Son|Nui Yen Tu|Nui Hong Linh|Nui Pu Si Lung|Nui Yen Tu
+Ten vu khi cua tho dan uc co kha nang bay lai vi tri cu ?|Boomerang|No than|Giao|Cung ten|Luoi hai|Boomerang

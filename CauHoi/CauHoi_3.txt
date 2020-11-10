@@ -1,0 +1,6 @@
+Mon the thao ua thich o an do: |Cricket|Bong da|Bong ro|Bong bau duc|Cricket
+World Cup bong da bao nhieu nam dien ra mot lan ?|4|2|5|3|4
+Ai la huan luyen vien cua doi tuyen bong da nam Viet Nam tai thoi diem hien tai? |Ho Chi Minh|Bui Tien Dung|Park Hang Seo|Miura|Zidane|Park Hang Seo
+Trai dat co hinh gi ?|Hinh cau|Hinh con ca|Hinh con cho|Ca 3 dap an tren deu sai|Ca 3 dap an tren deu sai
+Con bo gi lan cut ?|Bo ngua|Bo chet|Bo hung|Bo xit|Bo hung
+Duoi con trau chi huong nao ?|Chi huong mat troi moc|Chi huong dong|Chi xuong dat|Chi len troi|Chi xuong dat
